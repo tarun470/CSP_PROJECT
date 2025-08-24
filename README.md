@@ -28,7 +28,6 @@ WaterReleaseNotifier/
 └── src/test/java/com/example/water/
 └── AppTest.java # Simple JUnit test
 ---
----
 # Tables created in the oracle database
 '''sql
 CREATE TABLE water_releases (
