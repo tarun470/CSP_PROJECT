@@ -12,7 +12,6 @@ A **Java Maven Swing desktop application** that connects to an **Oracle Database
 - Built with **Java 17**, **Maven**, and **JUnit 5** for testing  
 
 ## 📂 Project Structure
-```
 WaterReleaseNotifier/
 ├── pom.xml # Maven dependencies & plugins
 ├── src/main/java/com/example/water/
