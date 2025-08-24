@@ -97,5 +97,11 @@ Enter notes
 Click "Release Water & Notify" to insert into DB and send SMS
 ---
 
+👉 On GitHub, this will render as:
+
+```bash
+mvn clean install
+mvn exec:java -Dexec.mainClass="com.example.water.App"
+
 
 
